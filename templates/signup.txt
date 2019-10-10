@@ -1,0 +1,22 @@
+<html>
+<head><title>"SIGNUP!!"</title></head>
+<body>
+<h2>CREATE YOUR ACCOUNT</h2>
+<form action ="http://127.0.0.1:5000/signup" method = "post">
+<p>Enter Your Name</p>
+<p><input type = "text" name ="nm"/</p>
+<p>Enter Your Email Id</p>
+<p><input type = "text" name ="eid"/</p>
+<p>Enter Your Phone Number</p>
+<p><input type = "text" name ="ph"/</p>
+<p>Enter Your Password</p>
+<p><input type = "text" name ="pass"/</p>
+<p>Enter Your Password Again</p>
+<p><input type = "text" name ="rpass"/</p>
+
+
+
+<p><input type = "submit"/</p>
+</form>
+</body>
+</html>

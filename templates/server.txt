@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>WECLOME TO dTbase</title>
+</head>
+<body>
+<h2>CREATE YOUR ACCOUNT AND GET STARTED!!!</h2>
+<button type="button"
+onclick="window.location.href='http://127.0.0.1:5000/signup';">SIGNUP!</button>
+<button type="button"
+onclick="window.location.href='http://127.0.0.1:5000/login';">LOGIN!</button>
+
+</body>
+</html>

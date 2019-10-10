@@ -1,0 +1,15 @@
+<html>
+<head><title>"Login"</title></head>
+<body>
+<p>LogIn Create Your First DataBase</p>
+<form action ="http://127.0.0.1:5000/clogin" method = "post">
+<p>Enter Your Email Id</p>
+<p><input type = "text" name ="eid"/</p>
+<p>Enter Your Password</p>
+<p><input type = "text" name ="pass"/</p>
+
+
+<p><input type = "submit"/</p>
+</form>
+</body>
+</html>
